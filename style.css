@@ -1,0 +1,20 @@
+
+div
+{
+    width: 100%;
+}
+
+#inst
+{
+    float: right;
+    border: 5px solid cyan;
+}
+
+h4
+{
+    margin: 0px;
+    background-color: aquamarine;
+    line-height: 2;
+}
+
+
